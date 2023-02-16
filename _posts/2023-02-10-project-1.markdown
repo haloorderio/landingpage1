@@ -4,20 +4,5 @@ modal-id: 1
 date: 2023-02-10
 img: Box-kwh.png
 alt: image-alt
-description: Box kWh Listrik
-Crafted by ilovekayu
-
-Detail Produk:
-
-- Berbahan full kayu
-- Dimensi P 23 x L 12 x T 33 cm
-- Pas untuk meteran listrik prabayar
-- Warna coklat putih & natural putih
-- Dilengkapi pengunci sehingga tidak gampang terbuka oleh angin. Memiliki 9 lubang ventilasi. Stiker bisa request tulisan
-
-Harga Normal Rp 197.000
-
-Harga Promo Rp 150.000
-
-Stok Terbatas!!!
+description: Box kWh Listrik - Crafted by ilovekayu: Berbahan full kayu, Dimensi P 23 x L 12 x T 33 cm, Pas untuk meteran listrik prabayar, Warna coklat putih & natural putih, Dilengkapi pengunci sehingga tidak gampang terbuka oleh angin. Memiliki 9 lubang ventilasi. Stiker bisa request tulisan - Stok Terbatas!!!
 ---
